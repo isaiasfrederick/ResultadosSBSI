@@ -1,0 +1,7261 @@
+{
+    "e": {
+        "mad.a 1446": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "mad.a 1447": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "mad.a 1444": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "mad.a 1445": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "mad.a 1442": [
+            "angry", 
+            "insane", 
+            "enthusiastic", 
+            "foolish", 
+            "unrestrained"
+        ], 
+        "mad.a 1443": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "mad.a 1441": [
+            "insane", 
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "unrestrained"
+        ], 
+        "clean.v 390": [], 
+        "mad.a 1448": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "mad.a 1449": [
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "insane", 
+            "unrestrained"
+        ], 
+        "heap.n 426": [
+            "pile"
+        ], 
+        "heap.n 427": [
+            "pile"
+        ], 
+        "heap.n 424": [
+            "pile"
+        ], 
+        "heap.n 425": [
+            "pile"
+        ], 
+        "heap.n 422": [
+            "pile"
+        ], 
+        "heap.n 423": [
+            "pile"
+        ], 
+        "heap.n 421": [
+            "pile"
+        ], 
+        "heap.n 428": [
+            "pile"
+        ], 
+        "heap.n 429": [
+            "pile"
+        ], 
+        "special.a 542": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 543": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 541": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 546": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 547": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 544": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 545": [
+            "specific", 
+            "distinctive"
+        ], 
+        "bug.n 577": [
+            "fault", 
+            "insect"
+        ], 
+        "bug.n 576": [
+            "fault", 
+            "insect"
+        ], 
+        "special.a 548": [
+            "specific", 
+            "distinctive"
+        ], 
+        "special.a 549": [
+            "specific", 
+            "distinctive"
+        ], 
+        "bug.n 573": [
+            "fault", 
+            "insect"
+        ], 
+        "bug.n 572": [
+            "fault", 
+            "insect"
+        ], 
+        "bug.n 571": [
+            "fault", 
+            "insect"
+        ], 
+        "external.a 1330": [
+            "outer"
+        ], 
+        "pound.n 720": [], 
+        "phone.n 692": [
+            "telephone"
+        ], 
+        "phone.n 693": [
+            "telephone"
+        ], 
+        "phone.n 691": [
+            "telephone"
+        ], 
+        "phone.n 696": [
+            "telephone"
+        ], 
+        "phone.n 697": [
+            "telephone"
+        ], 
+        "phone.n 694": [
+            "telephone"
+        ], 
+        "phone.n 695": [
+            "telephone"
+        ], 
+        "phone.n 698": [
+            "telephone"
+        ], 
+        "phone.n 699": [
+            "telephone"
+        ], 
+        "skip.v 1072": [], 
+        "skip.v 1073": [], 
+        "skip.v 1071": [], 
+        "skip.v 1076": [], 
+        "skip.v 1077": [], 
+        "skip.v 1074": [], 
+        "skip.v 1075": [], 
+        "skip.v 1078": [], 
+        "skip.v 1079": [], 
+        "strange.a 1659": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1658": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1655": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1654": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1657": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1656": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1653": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "strange.a 1652": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "think.v 340": [], 
+        "blow.n 1780": [
+            "gale", 
+            "toot"
+        ], 
+        "heavy.a 640": [
+            "weighty", 
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "mass.n 668": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 669": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 662": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 663": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 661": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 666": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 667": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 664": [
+            "majority", 
+            "pile"
+        ], 
+        "mass.n 665": [
+            "majority", 
+            "pile"
+        ], 
+        "clear.a 1241": [], 
+        "clear.a 1243": [], 
+        "clear.a 1242": [], 
+        "clear.a 1245": [], 
+        "clear.a 1244": [], 
+        "clear.a 1247": [], 
+        "clear.a 1246": [], 
+        "clear.a 1249": [], 
+        "clear.a 1248": [], 
+        "soil.n 1630": [
+            "territory", 
+            "earth"
+        ], 
+        "new.a 460": [
+            "unused"
+        ], 
+        "pass.v 1904": [], 
+        "pass.v 1905": [], 
+        "pass.v 1906": [], 
+        "pass.v 1907": [], 
+        "pass.v 1901": [], 
+        "pass.v 1902": [], 
+        "pass.v 1903": [], 
+        "mission.n 1464": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "pass.v 1908": [], 
+        "pass.v 1909": [], 
+        "execution.n 1824": [
+            "performance", 
+            "implementation"
+        ], 
+        "scrap.n 1959": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "full.a 420": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "steady.a 1636": [
+            "constant", 
+            "regular", 
+            "fixed", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1637": [
+            "constant", 
+            "regular", 
+            "fixed", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1634": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1635": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1632": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1633": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1631": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1638": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "steady.a 1639": [
+            "regular", 
+            "fixed", 
+            "constant", 
+            "sensible", 
+            "motionless"
+        ], 
+        "therefore.r 1125": [], 
+        "mad.a 1450": [
+            "insane", 
+            "angry", 
+            "enthusiastic", 
+            "foolish", 
+            "unrestrained"
+        ], 
+        "heap.n 430": [
+            "pile"
+        ], 
+        "bug.n 578": [
+            "insect", 
+            "fault"
+        ], 
+        "bug.n 575": [
+            "fault", 
+            "insect"
+        ], 
+        "bug.n 574": [
+            "fault", 
+            "insect"
+        ], 
+        "pot.n 1499": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1498": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1495": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1494": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1497": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1496": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1491": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1493": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "pot.n 1492": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "really.r 508": [
+            "genuinely"
+        ], 
+        "really.r 509": [
+            "genuinely"
+        ], 
+        "really.r 504": [
+            "genuinely"
+        ], 
+        "really.r 505": [
+            "genuinely"
+        ], 
+        "really.r 506": [
+            "genuinely"
+        ], 
+        "really.r 507": [
+            "genuinely"
+        ], 
+        "really.r 501": [
+            "genuinely"
+        ], 
+        "really.r 502": [
+            "genuinely"
+        ], 
+        "really.r 503": [
+            "genuinely"
+        ], 
+        "fresh.a 960": [
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "refreshed", 
+            "impudent"
+        ], 
+        "pound.n 719": [], 
+        "pound.n 718": [], 
+        "pound.n 711": [], 
+        "pound.n 713": [], 
+        "pound.n 712": [], 
+        "pound.n 715": [], 
+        "pound.n 714": [], 
+        "pound.n 717": [], 
+        "pound.n 716": [], 
+        "test.n 1699": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1698": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1691": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1693": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1692": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1695": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1694": [
+            "trial", 
+            "exam", 
+            "criterion"
+        ], 
+        "test.n 1697": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "test.n 1696": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "hold.v 1390": [
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "apparently.r 811": [
+            "seemingly"
+        ], 
+        "apparently.r 813": [
+            "seemingly"
+        ], 
+        "apparently.r 812": [
+            "seemingly"
+        ], 
+        "apparently.r 815": [
+            "seemingly"
+        ], 
+        "apparently.r 814": [
+            "seemingly"
+        ], 
+        "apparently.r 817": [
+            "seemingly"
+        ], 
+        "apparently.r 816": [
+            "seemingly"
+        ], 
+        "apparently.r 819": [
+            "seemingly"
+        ], 
+        "apparently.r 818": [
+            "seemingly"
+        ], 
+        "loud.a 1438": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "loud.a 1439": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "inner.a 1408": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "inner.a 1409": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "inner.a 1406": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "inner.a 1407": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "loud.a 1436": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "loud.a 1437": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "inner.a 1402": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "inner.a 1403": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "loud.a 1432": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "inner.a 1401": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "time.n 792": [
+            "while", 
+            "amount", 
+            "hour", 
+            "moment", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "vital.a 1750": [
+            "essential", 
+            "lively"
+        ], 
+        "light.a 991": [], 
+        "flat.a 1345": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1344": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1347": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1346": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1341": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1343": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1342": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1349": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "flat.a 1348": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "thus.r 349": [], 
+        "thus.r 348": [], 
+        "thus.r 345": [], 
+        "thus.r 344": [], 
+        "thus.r 347": [], 
+        "thus.r 346": [], 
+        "thus.r 341": [], 
+        "thus.r 343": [], 
+        "thus.r 342": [], 
+        "true.a 1730": [
+            "genuine", 
+            "accurate", 
+            "loyal", 
+            "rightful"
+        ], 
+        "often.r 469": [
+            "frequently"
+        ], 
+        "often.r 468": [
+            "frequently"
+        ], 
+        "often.r 465": [
+            "frequently"
+        ], 
+        "often.r 464": [
+            "frequently"
+        ], 
+        "often.r 467": [
+            "frequently"
+        ], 
+        "often.r 466": [
+            "frequently"
+        ], 
+        "often.r 461": [
+            "frequently"
+        ], 
+        "often.r 463": [
+            "frequently"
+        ], 
+        "often.r 462": [
+            "frequently"
+        ], 
+        "mission.n 1469": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "mission.n 1468": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "new.a 459": [
+            "unused"
+        ], 
+        "new.a 458": [
+            "unused"
+        ], 
+        "new.a 457": [
+            "unused"
+        ], 
+        "new.a 456": [
+            "unused"
+        ], 
+        "new.a 455": [
+            "unused"
+        ], 
+        "mission.n 1462": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "mission.n 1465": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "new.a 452": [
+            "unused"
+        ], 
+        "mission.n 1467": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "mission.n 1466": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "shade.n 1598": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1599": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1594": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1595": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1596": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1597": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1591": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1592": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "shade.n 1593": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "close.n 876": [
+            "street"
+        ], 
+        "close.n 877": [
+            "street"
+        ], 
+        "close.n 874": [
+            "street"
+        ], 
+        "close.n 875": [
+            "street"
+        ], 
+        "close.n 872": [
+            "street"
+        ], 
+        "close.n 873": [
+            "street"
+        ], 
+        "close.n 871": [
+            "street"
+        ], 
+        "strike.v 1666": [], 
+        "close.n 878": [
+            "street"
+        ], 
+        "close.n 879": [
+            "street"
+        ], 
+        "strike.v 1667": [], 
+        "profound.a 1504": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "dry.a 409": [
+            "arid", 
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "parched", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 408": [
+            "parched", 
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "return.v 520": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "dry.a 401": [
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 403": [
+            "parched", 
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 402": [
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 405": [
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 404": [
+            "wry", 
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 407": [
+            "wry", 
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dry.a 406": [
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dismiss.v 910": [], 
+        "paper.n 1900": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "touch.v 1140": [], 
+        "job.n 440": [
+            "crime", 
+            "responsibility", 
+            "task"
+        ], 
+        "really.r 510": [
+            "genuinely"
+        ], 
+        "render.v 1560": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "hold.v 1388": [
+            "occupy", 
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1389": [
+            "convene", 
+            "occupy", 
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1382": [
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1383": [
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1381": [
+            "convene", 
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1386": [
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1387": [
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1384": [
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "occupy", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "hold.v 1385": [
+            "occupy", 
+            "support", 
+            "believe", 
+            "maintain", 
+            "embrace", 
+            "possess", 
+            "convene", 
+            "detain", 
+            "clasp"
+        ], 
+        "call.v 1220": [], 
+        "inner.a 1410": [
+            "internal", 
+            "central", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "therefore.r 1121": [], 
+        "therefore.r 1122": [], 
+        "therefore.r 1123": [], 
+        "therefore.r 1124": [], 
+        "clear.v 870": [], 
+        "therefore.r 1126": [], 
+        "therefore.r 1127": [], 
+        "therefore.r 1128": [], 
+        "therefore.r 1129": [], 
+        "vital.a 1749": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1748": [
+            "essential", 
+            "lively"
+        ], 
+        "pulse.n 490": [
+            "heartbeat", 
+            "burst", 
+            "rhythm"
+        ], 
+        "vital.a 1743": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1742": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1741": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1747": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1746": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1745": [
+            "essential", 
+            "lively"
+        ], 
+        "vital.a 1744": [
+            "essential", 
+            "lively"
+        ], 
+        "good.a 613": [], 
+        "rest.n 1929": [
+            "stand", 
+            "holiday"
+        ], 
+        "flat.a 1350": [
+            "still", 
+            "slow", 
+            "fixed", 
+            "expired", 
+            "outright", 
+            "depressed", 
+            "deflated", 
+            "monotonous"
+        ], 
+        "lead.n 1890": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "true.a 1721": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1722": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1723": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1724": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1725": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1726": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1727": [
+            "accurate", 
+            "genuine", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1728": [
+            "genuine", 
+            "accurate", 
+            "loyal", 
+            "rightful"
+        ], 
+        "true.a 1729": [
+            "genuine", 
+            "accurate", 
+            "loyal", 
+            "rightful"
+        ], 
+        "often.r 470": [
+            "frequently"
+        ], 
+        "heavy.a 631": [
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "weighty", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "time.n 800": [
+            "moment", 
+            "while", 
+            "amount", 
+            "hour", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "decline.v 1278": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1279": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1274": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1275": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1276": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1277": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1271": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1272": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "decline.v 1273": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "likewise.r 1009": [
+            "also"
+        ], 
+        "likewise.r 1008": [
+            "also"
+        ], 
+        "caravan.n 1230": [
+            "wagon"
+        ], 
+        "likewise.r 1002": [
+            "also"
+        ], 
+        "likewise.r 1001": [
+            "also"
+        ], 
+        "likewise.r 1007": [
+            "also"
+        ], 
+        "likewise.r 1006": [
+            "also"
+        ], 
+        "likewise.r 1005": [
+            "also"
+        ], 
+        "likewise.r 1004": [
+            "also"
+        ], 
+        "tap.v 1120": [], 
+        "charge.v 370": [], 
+        "dry.a 410": [
+            "crisp", 
+            "dull", 
+            "thirsty", 
+            "arid", 
+            "parched", 
+            "wry", 
+            "unemotional", 
+            "waterless", 
+            "monetarist", 
+            "unbuttered"
+        ], 
+        "dismiss.v 904": [], 
+        "dismiss.v 905": [], 
+        "dismiss.v 906": [], 
+        "dismiss.v 907": [], 
+        "dismiss.v 901": [], 
+        "dismiss.v 902": [], 
+        "dismiss.v 903": [], 
+        "dismiss.v 908": [], 
+        "dismiss.v 909": [], 
+        "put.v 499": [], 
+        "put.v 498": [], 
+        "put.v 495": [], 
+        "put.v 494": [], 
+        "put.v 497": [], 
+        "put.v 496": [], 
+        "put.v 491": [], 
+        "put.v 493": [], 
+        "put.v 492": [], 
+        "wind.v 1998": [], 
+        "wind.v 1999": [], 
+        "wind.v 1994": [], 
+        "wind.v 1995": [], 
+        "wind.v 1996": [], 
+        "wind.v 1997": [], 
+        "wind.v 1991": [], 
+        "wind.v 1992": [], 
+        "wind.v 1993": [], 
+        "touch.v 1131": [], 
+        "touch.v 1132": [], 
+        "touch.v 1133": [], 
+        "touch.v 1134": [], 
+        "touch.v 1135": [], 
+        "touch.v 1136": [], 
+        "touch.v 1137": [], 
+        "touch.v 1138": [], 
+        "touch.v 1139": [], 
+        "job.n 439": [
+            "crime", 
+            "responsibility", 
+            "task"
+        ], 
+        "job.n 438": [
+            "crime", 
+            "responsibility", 
+            "task"
+        ], 
+        "job.n 435": [
+            "crime", 
+            "responsibility", 
+            "task"
+        ], 
+        "job.n 434": [
+            "task", 
+            "crime", 
+            "responsibility"
+        ], 
+        "job.n 437": [
+            "task", 
+            "crime", 
+            "responsibility"
+        ], 
+        "job.n 436": [
+            "task", 
+            "crime", 
+            "responsibility"
+        ], 
+        "job.n 431": [
+            "task", 
+            "crime", 
+            "responsibility"
+        ], 
+        "job.n 433": [
+            "crime", 
+            "responsibility", 
+            "task"
+        ], 
+        "job.n 432": [
+            "crime", 
+            "responsibility", 
+            "task"
+        ], 
+        "account.n 1160": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "shot.n 1980": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "late.r 450": [], 
+        "call.v 1211": [], 
+        "call.v 1213": [], 
+        "call.v 1212": [], 
+        "call.v 1215": [], 
+        "call.v 1214": [], 
+        "call.v 1217": [], 
+        "call.v 1216": [], 
+        "call.v 1219": [], 
+        "call.v 1218": [], 
+        "clear.v 868": [], 
+        "clear.v 869": [], 
+        "clear.v 862": [], 
+        "clear.v 863": [], 
+        "clear.v 861": [], 
+        "clear.v 866": [], 
+        "clear.v 867": [], 
+        "clear.v 864": [], 
+        "clear.v 865": [], 
+        "therefore.r 1130": [], 
+        "range.n 1538": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1539": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1536": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1537": [
+            "assortment", 
+            "row", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1534": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1535": [
+            "assortment", 
+            "row", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1532": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1533": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "range.n 1531": [
+            "row", 
+            "assortment", 
+            "stove", 
+            "pasture"
+        ], 
+        "pulse.n 484": [
+            "heartbeat", 
+            "burst", 
+            "rhythm"
+        ], 
+        "pulse.n 485": [
+            "burst", 
+            "rhythm", 
+            "heartbeat"
+        ], 
+        "pulse.n 486": [
+            "heartbeat", 
+            "burst", 
+            "rhythm"
+        ], 
+        "pulse.n 487": [
+            "burst", 
+            "rhythm", 
+            "heartbeat"
+        ], 
+        "pulse.n 481": [
+            "heartbeat", 
+            "burst", 
+            "rhythm"
+        ], 
+        "pulse.n 482": [
+            "heartbeat", 
+            "burst", 
+            "rhythm"
+        ], 
+        "pulse.n 483": [
+            "burst", 
+            "rhythm", 
+            "heartbeat"
+        ], 
+        "pulse.n 488": [
+            "burst", 
+            "rhythm", 
+            "heartbeat"
+        ], 
+        "pulse.n 489": [
+            "heartbeat", 
+            "burst", 
+            "rhythm"
+        ], 
+        "lead.n 1887": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1884": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1885": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1882": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1883": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1881": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1888": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "lead.n 1889": [
+            "piece", 
+            "clue", 
+            "leash"
+        ], 
+        "rhythm.n 1565": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1564": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1567": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1566": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1561": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1563": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1562": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1569": [
+            "beat", 
+            "pattern"
+        ], 
+        "rhythm.n 1568": [
+            "beat", 
+            "pattern"
+        ], 
+        "bring.v 1200": [
+            "carry", 
+            "cause", 
+            "conduct", 
+            "earn"
+        ], 
+        "carry.v 1237": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1236": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1235": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1234": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1233": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1232": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1231": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1239": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "carry.v 1238": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "caravan.n 1227": [
+            "wagon"
+        ], 
+        "caravan.n 1226": [
+            "wagon"
+        ], 
+        "caravan.n 1225": [
+            "wagon"
+        ], 
+        "caravan.n 1224": [
+            "wagon"
+        ], 
+        "caravan.n 1223": [
+            "wagon"
+        ], 
+        "caravan.n 1222": [
+            "wagon"
+        ], 
+        "caravan.n 1221": [
+            "wagon"
+        ], 
+        "likewise.r 1010": [
+            "also"
+        ], 
+        "caravan.n 1229": [
+            "wagon"
+        ], 
+        "caravan.n 1228": [
+            "wagon"
+        ], 
+        "civil.a 380": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "charge.v 361": [], 
+        "charge.v 363": [], 
+        "charge.v 362": [], 
+        "charge.v 365": [], 
+        "charge.v 364": [], 
+        "charge.v 367": [], 
+        "charge.v 366": [], 
+        "charge.v 369": [], 
+        "charge.v 368": [], 
+        "execution.n 1830": [
+            "implementation", 
+            "performance"
+        ], 
+        "fall.v 1838": [], 
+        "fall.v 1839": [], 
+        "fall.v 1831": [], 
+        "fall.v 1832": [], 
+        "fall.v 1833": [], 
+        "fall.v 1834": [], 
+        "fall.v 1835": [], 
+        "fall.v 1836": [], 
+        "fall.v 1837": [], 
+        "open.a 1489": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1488": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1481": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1483": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1482": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1485": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1484": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1487": [
+            "available", 
+            "public", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "open.a 1486": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "extended.a 1318": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1319": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1311": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1312": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1313": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1314": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1315": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1316": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "extended.a 1317": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "cry.v 898": [
+            "weep", 
+            "call"
+        ], 
+        "cry.v 899": [
+            "weep", 
+            "call"
+        ], 
+        "cry.v 896": [
+            "weep", 
+            "call"
+        ], 
+        "cry.v 897": [
+            "weep", 
+            "call"
+        ], 
+        "cry.v 894": [
+            "weep", 
+            "call"
+        ], 
+        "strike.v 1670": [], 
+        "cry.v 892": [
+            "weep", 
+            "call"
+        ], 
+        "cry.v 893": [
+            "call", 
+            "weep"
+        ], 
+        "cry.v 891": [
+            "weep", 
+            "call"
+        ], 
+        "let.v 980": [
+            "allow"
+        ], 
+        "pull.v 1530": [
+            "strain", 
+            "tug"
+        ], 
+        "thus.r 350": [], 
+        "account.n 1158": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1159": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1151": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1152": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1153": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1154": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1155": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1156": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "account.n 1157": [
+            "performance", 
+            "bill", 
+            "importance", 
+            "description"
+        ], 
+        "rest.n 1921": [
+            "stand", 
+            "holiday"
+        ], 
+        "fresh.a 956": [
+            "healthy", 
+            "refreshed", 
+            "new", 
+            "young", 
+            "cool", 
+            "chilly", 
+            "impudent"
+        ], 
+        "fresh.a 957": [
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "refreshed", 
+            "impudent"
+        ], 
+        "fresh.a 954": [
+            "refreshed", 
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "impudent"
+        ], 
+        "fresh.a 955": [
+            "new", 
+            "refreshed", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "impudent"
+        ], 
+        "fresh.a 952": [
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "refreshed", 
+            "impudent"
+        ], 
+        "fresh.a 953": [
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "refreshed", 
+            "impudent"
+        ], 
+        "fresh.a 951": [
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "refreshed", 
+            "impudent"
+        ], 
+        "instead.r 641": [], 
+        "instead.r 643": [], 
+        "instead.r 642": [], 
+        "instead.r 645": [], 
+        "instead.r 644": [], 
+        "fresh.a 958": [
+            "new", 
+            "refreshed", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "impudent"
+        ], 
+        "instead.r 646": [], 
+        "late.r 446": [], 
+        "late.r 447": [], 
+        "late.r 444": [], 
+        "late.r 445": [], 
+        "late.r 442": [], 
+        "late.r 443": [], 
+        "late.r 441": [], 
+        "late.r 448": [], 
+        "late.r 449": [], 
+        "show.v 1990": [
+            "display", 
+            "appear", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "quick.a 1050": [
+            "fast", 
+            "hasty", 
+            "sudden", 
+            "intelligent"
+        ], 
+        "acquire.v 1166": [
+            "obtain"
+        ], 
+        "acquire.v 1167": [
+            "obtain"
+        ], 
+        "acquire.v 1164": [
+            "obtain"
+        ], 
+        "acquire.v 1165": [
+            "obtain"
+        ], 
+        "acquire.v 1162": [
+            "obtain"
+        ], 
+        "acquire.v 1163": [
+            "obtain"
+        ], 
+        "acquire.v 1161": [
+            "obtain"
+        ], 
+        "acquire.v 1168": [
+            "obtain"
+        ], 
+        "acquire.v 1169": [
+            "obtain"
+        ], 
+        "figure.n 1850": [
+            "statistic", 
+            "price", 
+            "person", 
+            "shape", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "forth.r 949": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 948": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 943": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 942": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 941": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 947": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 946": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 945": [
+            "out", 
+            "onward"
+        ], 
+        "forth.r 944": [
+            "out", 
+            "onward"
+        ], 
+        "acute.a 1178": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1179": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1176": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1177": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1174": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1175": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1172": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1173": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "acute.a 1171": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "mission.n 1470": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "endure.v 1310": [
+            "tolerate"
+        ], 
+        "rhythm.n 1570": [
+            "beat", 
+            "pattern"
+        ], 
+        "softly.r 539": [], 
+        "softly.r 538": [], 
+        "softly.r 531": [], 
+        "softly.r 533": [], 
+        "softly.r 532": [], 
+        "softly.r 535": [], 
+        "softly.r 534": [], 
+        "softly.r 537": [], 
+        "softly.r 536": [], 
+        "right.r 1940": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "execution.n 1829": [
+            "performance", 
+            "implementation"
+        ], 
+        "execution.n 1828": [
+            "performance", 
+            "implementation"
+        ], 
+        "execution.n 1827": [
+            "performance", 
+            "implementation"
+        ], 
+        "execution.n 1826": [
+            "performance", 
+            "implementation"
+        ], 
+        "execution.n 1825": [
+            "performance", 
+            "implementation"
+        ], 
+        "letter.n 1430": [
+            "learning"
+        ], 
+        "execution.n 1823": [
+            "implementation", 
+            "performance"
+        ], 
+        "execution.n 1822": [
+            "performance", 
+            "implementation"
+        ], 
+        "execution.n 1821": [
+            "performance", 
+            "implementation"
+        ], 
+        "open.a 1490": [
+            "public", 
+            "available", 
+            "unresolved", 
+            "impartial", 
+            "frank", 
+            "receptive", 
+            "overt", 
+            "unfastened"
+        ], 
+        "secret.a 1970": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "extended.a 1320": [
+            "prolonged", 
+            "inclusive"
+        ], 
+        "jam.n 1880": [], 
+        "strike.v 1664": [], 
+        "strike.v 1665": [], 
+        "profound.a 1503": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "profound.a 1502": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "profound.a 1505": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "strike.v 1661": [], 
+        "strike.v 1662": [], 
+        "strike.v 1663": [], 
+        "profound.a 1509": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "profound.a 1508": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "strike.v 1668": [], 
+        "strike.v 1669": [], 
+        "pull.v 1528": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1529": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1521": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1522": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1523": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1524": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1525": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1526": [
+            "strain", 
+            "tug"
+        ], 
+        "pull.v 1527": [
+            "strain", 
+            "tug"
+        ], 
+        "solid.a 1090": [
+            "hard", 
+            "dependable"
+        ], 
+        "check.v 858": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 859": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 851": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 852": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 853": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 854": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 855": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 856": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "check.v 857": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "instead.r 650": [], 
+        "render.v 1554": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1555": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1556": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1557": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1551": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1552": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1553": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1558": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "render.v 1559": [
+            "make", 
+            "give", 
+            "deliver", 
+            "perform", 
+            "paint", 
+            "translate"
+        ], 
+        "pot.n 1500": [
+            "bank", 
+            "flowerpot"
+        ], 
+        "post.n 710": [
+            "pole"
+        ], 
+        "show.v 1988": [
+            "appear", 
+            "display", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1989": [
+            "appear", 
+            "display", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1984": [
+            "display", 
+            "appear", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1985": [
+            "appear", 
+            "display", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1986": [
+            "display", 
+            "appear", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1987": [
+            "appear", 
+            "display", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1981": [
+            "display", 
+            "appear", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1982": [
+            "display", 
+            "appear", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "show.v 1983": [
+            "appear", 
+            "display", 
+            "prove", 
+            "escort", 
+            "manifest"
+        ], 
+        "quick.a 1049": [
+            "fast", 
+            "sudden", 
+            "intelligent", 
+            "hasty"
+        ], 
+        "quick.a 1048": [
+            "fast", 
+            "hasty", 
+            "sudden", 
+            "intelligent"
+        ], 
+        "rest.n 1923": [
+            "stand", 
+            "holiday"
+        ], 
+        "rest.n 1922": [
+            "stand", 
+            "holiday"
+        ], 
+        "rest.n 1925": [
+            "stand", 
+            "holiday"
+        ], 
+        "rest.n 1924": [
+            "stand", 
+            "holiday"
+        ], 
+        "rest.n 1927": [
+            "stand", 
+            "holiday"
+        ], 
+        "rest.n 1926": [
+            "stand", 
+            "holiday"
+        ], 
+        "quick.a 1041": [
+            "fast", 
+            "sudden", 
+            "intelligent", 
+            "hasty"
+        ], 
+        "rest.n 1928": [
+            "stand", 
+            "holiday"
+        ], 
+        "quick.a 1043": [
+            "fast", 
+            "sudden", 
+            "intelligent", 
+            "hasty"
+        ], 
+        "quick.a 1042": [
+            "fast", 
+            "sudden", 
+            "intelligent", 
+            "hasty"
+        ], 
+        "quick.a 1045": [
+            "fast", 
+            "sudden", 
+            "intelligent", 
+            "hasty"
+        ], 
+        "quick.a 1044": [
+            "hasty", 
+            "fast", 
+            "sudden", 
+            "intelligent"
+        ], 
+        "quick.a 1047": [
+            "fast", 
+            "hasty", 
+            "sudden", 
+            "intelligent"
+        ], 
+        "quick.a 1046": [
+            "fast", 
+            "sudden", 
+            "intelligent", 
+            "hasty"
+        ], 
+        "think.v 339": [], 
+        "think.v 338": [], 
+        "acquire.v 1170": [
+            "obtain"
+        ], 
+        "think.v 331": [], 
+        "think.v 333": [], 
+        "think.v 332": [], 
+        "think.v 335": [], 
+        "think.v 334": [], 
+        "think.v 337": [], 
+        "think.v 336": [], 
+        "forth.r 950": [
+            "out", 
+            "onward"
+        ], 
+        "blow.n 1772": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1773": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1771": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1776": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1777": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1774": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1775": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1778": [
+            "gale", 
+            "toot"
+        ], 
+        "blow.n 1779": [
+            "gale", 
+            "toot"
+        ], 
+        "informal.a 1400": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "endure.v 1308": [
+            "tolerate"
+        ], 
+        "endure.v 1309": [
+            "tolerate"
+        ], 
+        "endure.v 1301": [
+            "tolerate"
+        ], 
+        "endure.v 1302": [
+            "tolerate"
+        ], 
+        "endure.v 1303": [
+            "tolerate"
+        ], 
+        "endure.v 1304": [
+            "tolerate"
+        ], 
+        "endure.v 1305": [
+            "tolerate"
+        ], 
+        "endure.v 1306": [
+            "tolerate"
+        ], 
+        "endure.v 1307": [
+            "tolerate"
+        ], 
+        "rude.a 741": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "easy.a 1300": [
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "uncomplicated", 
+            "promiscuous"
+        ], 
+        "decline.v 1280": [
+            "decrease", 
+            "deteriorate"
+        ], 
+        "go.v 968": [], 
+        "letter.n 1424": [
+            "learning"
+        ], 
+        "letter.n 1425": [
+            "learning"
+        ], 
+        "letter.n 1426": [
+            "learning"
+        ], 
+        "letter.n 1427": [
+            "learning"
+        ], 
+        "letter.n 1421": [
+            "learning"
+        ], 
+        "letter.n 1422": [
+            "learning"
+        ], 
+        "letter.n 1423": [
+            "learning"
+        ], 
+        "letter.n 1428": [
+            "learning"
+        ], 
+        "letter.n 1429": [
+            "learning"
+        ], 
+        "steady.a 1640": [
+            "constant", 
+            "regular", 
+            "fixed", 
+            "sensible", 
+            "motionless"
+        ], 
+        "forward.r 1358": [
+            "ahead", 
+            "onward"
+        ], 
+        "blue.a 850": [
+            "depressed", 
+            "indecent"
+        ], 
+        "worldwide.a 1751": [
+            "global"
+        ], 
+        "worldwide.a 1753": [
+            "global"
+        ], 
+        "worldwide.a 1752": [
+            "global"
+        ], 
+        "worldwide.a 1755": [
+            "global"
+        ], 
+        "worldwide.a 1754": [
+            "global"
+        ], 
+        "worldwide.a 1757": [
+            "global"
+        ], 
+        "worldwide.a 1756": [
+            "global"
+        ], 
+        "worldwide.a 1759": [
+            "global"
+        ], 
+        "worldwide.a 1758": [
+            "global"
+        ], 
+        "possibly.r 1038": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1039": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1032": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1033": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1031": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1036": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1037": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1034": [
+            "perhaps", 
+            "please"
+        ], 
+        "possibly.r 1035": [
+            "perhaps", 
+            "please"
+        ], 
+        "paper.n 1898": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1899": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1892": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1893": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1891": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1896": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1897": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1894": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "paper.n 1895": [
+            "report", 
+            "exam", 
+            "essay", 
+            "wallpaper"
+        ], 
+        "way.n 556": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 557": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 554": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 555": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 552": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 553": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 551": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 558": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "way.n 559": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "investigator.n 1420": [
+            "inspector"
+        ], 
+        "solid.a 1089": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1088": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1085": [
+            "dependable", 
+            "hard"
+        ], 
+        "solid.a 1084": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1087": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1086": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1081": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1083": [
+            "hard", 
+            "dependable"
+        ], 
+        "solid.a 1082": [
+            "dependable", 
+            "hard"
+        ], 
+        "away.r 839": [
+            "elsewhere"
+        ], 
+        "away.r 838": [
+            "elsewhere"
+        ], 
+        "away.r 831": [
+            "elsewhere"
+        ], 
+        "away.r 833": [
+            "elsewhere"
+        ], 
+        "away.r 832": [
+            "elsewhere"
+        ], 
+        "away.r 835": [
+            "elsewhere"
+        ], 
+        "away.r 834": [
+            "elsewhere"
+        ], 
+        "away.r 837": [
+            "elsewhere"
+        ], 
+        "away.r 836": [
+            "elsewhere"
+        ], 
+        "check.v 860": [
+            "halt", 
+            "examine", 
+            "suppress"
+        ], 
+        "truly.r 1737": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1736": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1735": [
+            "really", 
+            "sincerely", 
+            "accurately", 
+            "truthfully"
+        ], 
+        "truly.r 1734": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1733": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1732": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1731": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1739": [
+            "really", 
+            "accurately", 
+            "sincerely", 
+            "truthfully"
+        ], 
+        "truly.r 1738": [
+            "really", 
+            "sincerely", 
+            "accurately", 
+            "truthfully"
+        ], 
+        "full.a 411": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "strong.a 1100": [
+            "keen", 
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "poor.a 1913": [
+            "unfortunate", 
+            "substandard"
+        ], 
+        "poor.a 1912": [
+            "unfortunate", 
+            "substandard"
+        ], 
+        "poor.a 1911": [
+            "substandard", 
+            "unfortunate"
+        ], 
+        "poor.a 1917": [
+            "substandard", 
+            "unfortunate"
+        ], 
+        "poor.a 1916": [
+            "unfortunate", 
+            "substandard"
+        ], 
+        "poor.a 1915": [
+            "substandard", 
+            "unfortunate"
+        ], 
+        "poor.a 1914": [
+            "unfortunate", 
+            "substandard"
+        ], 
+        "poor.a 1919": [
+            "substandard", 
+            "unfortunate"
+        ], 
+        "poor.a 1918": [
+            "unfortunate", 
+            "substandard"
+        ], 
+        "post.n 707": [
+            "pole"
+        ], 
+        "post.n 706": [
+            "pole"
+        ], 
+        "post.n 705": [
+            "pole"
+        ], 
+        "post.n 704": [
+            "pole"
+        ], 
+        "post.n 703": [
+            "pole"
+        ], 
+        "post.n 702": [
+            "pole"
+        ], 
+        "post.n 701": [
+            "pole"
+        ], 
+        "serious.a 1590": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "post.n 709": [
+            "pole"
+        ], 
+        "post.n 708": [
+            "pole"
+        ], 
+        "phone.n 700": [
+            "telephone"
+        ], 
+        "rest.n 1930": [
+            "stand", 
+            "holiday"
+        ], 
+        "figure.n 1848": [
+            "statistic", 
+            "price", 
+            "person", 
+            "shape", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1849": [
+            "price", 
+            "person", 
+            "shape", 
+            "statistic", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1846": [
+            "price", 
+            "person", 
+            "shape", 
+            "statistic", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1847": [
+            "price", 
+            "person", 
+            "shape", 
+            "statistic", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1844": [
+            "price", 
+            "person", 
+            "shape", 
+            "statistic", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1845": [
+            "statistic", 
+            "price", 
+            "person", 
+            "shape", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1842": [
+            "price", 
+            "person", 
+            "shape", 
+            "statistic", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1843": [
+            "price", 
+            "person", 
+            "shape", 
+            "statistic", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "figure.n 1841": [
+            "statistic", 
+            "price", 
+            "person", 
+            "shape", 
+            "silhouette", 
+            "physique", 
+            "diagram", 
+            "arithmetic"
+        ], 
+        "side.n 301": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 302": [
+            "edge", 
+            "team", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 303": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 304": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 305": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 306": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 307": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 308": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "side.n 309": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "easy.a 1296": [
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "uncomplicated", 
+            "promiscuous"
+        ], 
+        "easy.a 1297": [
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "uncomplicated", 
+            "promiscuous"
+        ], 
+        "easy.a 1294": [
+            "uncomplicated", 
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "promiscuous"
+        ], 
+        "easy.a 1295": [
+            "uncomplicated", 
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "promiscuous"
+        ], 
+        "easy.a 1292": [
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "uncomplicated", 
+            "promiscuous"
+        ], 
+        "easy.a 1293": [
+            "uncomplicated", 
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "promiscuous"
+        ], 
+        "easy.a 1291": [
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "uncomplicated", 
+            "promiscuous"
+        ], 
+        "light.a 1000": [], 
+        "easy.a 1299": [
+            "natural", 
+            "vulnerable", 
+            "calm", 
+            "uncomplicated", 
+            "promiscuous"
+        ], 
+        "near.r 1479": [
+            "almost"
+        ], 
+        "come.v 888": [], 
+        "come.v 889": [], 
+        "come.v 886": [], 
+        "come.v 887": [], 
+        "come.v 884": [], 
+        "come.v 885": [], 
+        "come.v 882": [], 
+        "come.v 883": [], 
+        "come.v 881": [], 
+        "tell.v 319": [], 
+        "tell.v 318": [], 
+        "tell.v 317": [], 
+        "tell.v 316": [], 
+        "tell.v 315": [], 
+        "tell.v 314": [], 
+        "tell.v 313": [], 
+        "tell.v 312": [], 
+        "tell.v 311": [], 
+        "now.r 1012": [
+            "nowadays"
+        ], 
+        "now.r 1013": [
+            "nowadays"
+        ], 
+        "ring.n 1944": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "now.r 1016": [
+            "nowadays"
+        ], 
+        "now.r 1017": [
+            "nowadays"
+        ], 
+        "now.r 1014": [
+            "nowadays"
+        ], 
+        "now.r 1015": [
+            "nowadays"
+        ], 
+        "now.r 1018": [
+            "nowadays"
+        ], 
+        "now.r 1019": [
+            "nowadays"
+        ], 
+        "scene.n 1579": [
+            "incident", 
+            "view", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "education.n 600": [
+            "learning", 
+            "teaching"
+        ], 
+        "yard.n 806": [
+            "curtilage"
+        ], 
+        "yard.n 807": [
+            "curtilage"
+        ], 
+        "yard.n 805": [
+            "curtilage"
+        ], 
+        "yard.n 802": [
+            "curtilage"
+        ], 
+        "yard.n 803": [
+            "curtilage"
+        ], 
+        "yard.n 801": [
+            "curtilage"
+        ], 
+        "yard.n 808": [
+            "curtilage"
+        ], 
+        "yard.n 809": [
+            "curtilage"
+        ], 
+        "go.v 970": [], 
+        "blue.a 849": [
+            "depressed", 
+            "indecent"
+        ], 
+        "blue.a 848": [
+            "depressed", 
+            "indecent"
+        ], 
+        "near.r 1475": [
+            "almost"
+        ], 
+        "near.r 1474": [
+            "almost"
+        ], 
+        "near.r 1473": [
+            "almost"
+        ], 
+        "ring.n 1949": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "near.r 1471": [
+            "almost"
+        ], 
+        "blue.a 841": [
+            "depressed", 
+            "indecent"
+        ], 
+        "blue.a 843": [
+            "depressed", 
+            "indecent"
+        ], 
+        "blue.a 842": [
+            "depressed", 
+            "indecent"
+        ], 
+        "blue.a 845": [
+            "depressed", 
+            "indecent"
+        ], 
+        "blue.a 844": [
+            "depressed", 
+            "indecent"
+        ], 
+        "blue.a 847": [
+            "depressed", 
+            "indecent"
+        ], 
+        "near.r 1478": [
+            "almost"
+        ], 
+        "way.n 560": [
+            "state", 
+            "practice", 
+            "method", 
+            "aspect"
+        ], 
+        "jam.n 1878": [], 
+        "forward.r 1360": [
+            "ahead", 
+            "onward"
+        ], 
+        "close.n 880": [
+            "street"
+        ], 
+        "worthy.a 1148": [], 
+        "work.v 2010": [], 
+        "hard.r 629": [
+            "heavily"
+        ], 
+        "hard.r 628": [
+            "heavily"
+        ], 
+        "hard.r 625": [
+            "heavily"
+        ], 
+        "hard.r 624": [
+            "heavily"
+        ], 
+        "hard.r 627": [
+            "heavily"
+        ], 
+        "hard.r 626": [
+            "heavily"
+        ], 
+        "hard.r 621": [
+            "heavily"
+        ], 
+        "hard.r 623": [
+            "heavily"
+        ], 
+        "hard.r 622": [
+            "heavily"
+        ], 
+        "bull.n 584": [], 
+        "bull.n 585": [], 
+        "bull.n 586": [], 
+        "bull.n 587": [], 
+        "bull.n 581": [], 
+        "bull.n 582": [], 
+        "bull.n 583": [], 
+        "bull.n 588": [], 
+        "bull.n 589": [], 
+        "make.v 1460": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "time.n 797": [
+            "moment", 
+            "while", 
+            "amount", 
+            "hour", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "time.n 791": [
+            "while", 
+            "moment", 
+            "amount", 
+            "hour", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "time.n 793": [
+            "moment", 
+            "while", 
+            "amount", 
+            "hour", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "get.v 1379": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1378": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1377": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1376": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1375": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1374": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1373": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1372": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "get.v 1371": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "serious.a 1587": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1586": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1585": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1584": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1583": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1582": [
+            "important", 
+            "severe", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1581": [
+            "important", 
+            "severe", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1589": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "serious.a 1588": [
+            "severe", 
+            "important", 
+            "intellectual", 
+            "solemn"
+        ], 
+        "drop.v 1283": [
+            "fall", 
+            "put", 
+            "lose", 
+            "collapse", 
+            "decrease", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1282": [
+            "fall", 
+            "decrease", 
+            "put", 
+            "lose", 
+            "collapse", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1281": [
+            "fall", 
+            "decrease", 
+            "put", 
+            "lose", 
+            "collapse", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1287": [
+            "fall", 
+            "put", 
+            "lose", 
+            "collapse", 
+            "decrease", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1286": [
+            "decrease", 
+            "put", 
+            "fall", 
+            "lose", 
+            "collapse", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1285": [
+            "decrease", 
+            "put", 
+            "fall", 
+            "lose", 
+            "collapse", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1284": [
+            "decrease", 
+            "put", 
+            "fall", 
+            "lose", 
+            "collapse", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1289": [
+            "fall", 
+            "decrease", 
+            "put", 
+            "lose", 
+            "collapse", 
+            "abandon", 
+            "exclude"
+        ], 
+        "drop.v 1288": [
+            "fall", 
+            "put", 
+            "lose", 
+            "collapse", 
+            "decrease", 
+            "abandon", 
+            "exclude"
+        ], 
+        "side.n 310": [
+            "team", 
+            "edge", 
+            "spin", 
+            "faction", 
+            "pretension"
+        ], 
+        "function.n 1870": [
+            "purpose", 
+            "consequence"
+        ], 
+        "informal.a 1399": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1398": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1395": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1394": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1397": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1396": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1391": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "bug.n 579": [
+            "fault", 
+            "insect"
+        ], 
+        "informal.a 1393": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "informal.a 1392": [
+            "casual", 
+            "unofficial", 
+            "colloquial"
+        ], 
+        "heavy.a 636": [
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "weighty", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "heavy.a 637": [
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "weighty", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "heavy.a 634": [
+            "weighty", 
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "heavy.a 635": [
+            "weighty", 
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "heavy.a 632": [
+            "laden", 
+            "substantial", 
+            "dense", 
+            "arduous", 
+            "weighty", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "heavy.a 633": [
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "weighty", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "acute.a 1180": [
+            "severe", 
+            "keen", 
+            "stabbing", 
+            "astute"
+        ], 
+        "shed.v 530": [], 
+        "heavy.a 638": [
+            "weighty", 
+            "substantial", 
+            "laden", 
+            "dense", 
+            "arduous", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "heavy.a 639": [
+            "laden", 
+            "substantial", 
+            "dense", 
+            "arduous", 
+            "weighty", 
+            "coarse", 
+            "bountiful", 
+            "torrential", 
+            "immoderate", 
+            "clayey"
+        ], 
+        "charge.n 1815": [], 
+        "charge.n 1814": [], 
+        "charge.n 1817": [], 
+        "charge.n 1816": [], 
+        "charge.n 1811": [], 
+        "charge.n 1813": [], 
+        "charge.n 1812": [], 
+        "burst.v 1210": [
+            "collapse"
+        ], 
+        "wind.n 358": [], 
+        "charge.n 1819": [], 
+        "charge.n 1818": [], 
+        "let.v 973": [
+            "allow"
+        ], 
+        "coach.n 400": [
+            "bus", 
+            "carriage"
+        ], 
+        "field.n 1339": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "field.n 1338": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "coach.n 399": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 398": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 395": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 394": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 397": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 396": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 391": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 393": [
+            "bus", 
+            "carriage"
+        ], 
+        "coach.n 392": [
+            "bus", 
+            "carriage"
+        ], 
+        "field.n 1335": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "let.v 978": [
+            "allow"
+        ], 
+        "remainder.n 739": [
+            "residue"
+        ], 
+        "good.a 620": [], 
+        "wind.n 353": [], 
+        "come.v 890": [], 
+        "remainder.n 740": [
+            "residue"
+        ], 
+        "light.a 993": [], 
+        "prominent.a 1520": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "board.n 1782": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "light.a 996": [], 
+        "light.a 997": [], 
+        "light.a 994": [], 
+        "light.a 995": [], 
+        "yard.n 810": [
+            "curtilage"
+        ], 
+        "right.r 1939": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1938": [
+            "exactly", 
+            "straight", 
+            "completely", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1931": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1933": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1932": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1935": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1934": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "right.r 1936": [
+            "straight", 
+            "completely", 
+            "exactly", 
+            "correctly", 
+            "justly"
+        ], 
+        "order.v 1030": [], 
+        "go.v 969": [], 
+        "forward.r 1351": [
+            "ahead", 
+            "onward"
+        ], 
+        "forward.r 1352": [
+            "ahead", 
+            "onward"
+        ], 
+        "forward.r 1353": [
+            "ahead", 
+            "onward"
+        ], 
+        "forward.r 1354": [
+            "ahead", 
+            "onward"
+        ], 
+        "forward.r 1355": [
+            "ahead", 
+            "onward"
+        ], 
+        "forward.r 1356": [
+            "ahead", 
+            "onward"
+        ], 
+        "forward.r 1357": [
+            "ahead", 
+            "onward"
+        ], 
+        "go.v 961": [], 
+        "forward.r 1359": [
+            "ahead", 
+            "onward"
+        ], 
+        "go.v 963": [], 
+        "go.v 962": [], 
+        "go.v 965": [], 
+        "go.v 964": [], 
+        "go.v 967": [], 
+        "go.v 966": [], 
+        "work.v 2008": [], 
+        "work.v 2009": [], 
+        "work.v 2004": [], 
+        "work.v 2005": [], 
+        "work.v 2006": [], 
+        "work.v 2007": [], 
+        "work.v 2001": [], 
+        "work.v 2002": [], 
+        "work.v 2003": [], 
+        "cry.v 900": [
+            "weep", 
+            "call"
+        ], 
+        "bull.n 590": [], 
+        "worthy.a 1145": [], 
+        "worthy.a 1144": [], 
+        "worthy.a 1147": [], 
+        "worthy.a 1146": [], 
+        "worthy.a 1141": [], 
+        "jam.n 1879": [], 
+        "worthy.a 1143": [], 
+        "worthy.a 1142": [], 
+        "jam.n 1874": [], 
+        "jam.n 1875": [], 
+        "jam.n 1876": [], 
+        "jam.n 1877": [], 
+        "worthy.a 1149": [], 
+        "jam.n 1871": [], 
+        "jam.n 1872": [], 
+        "jam.n 1873": [], 
+        "closely.r 1262": [], 
+        "closely.r 1263": [], 
+        "closely.r 1261": [], 
+        "closely.r 1266": [], 
+        "closely.r 1267": [], 
+        "closely.r 1264": [], 
+        "closely.r 1265": [], 
+        "closely.r 1268": [], 
+        "closely.r 1269": [], 
+        "saint.n 751": [], 
+        "get.v 1380": [
+            "become", 
+            "receive", 
+            "contact", 
+            "hear", 
+            "prepare", 
+            "arrive", 
+            "acquire", 
+            "fetch", 
+            "apprehend", 
+            "annoy", 
+            "baffle", 
+            "contrive"
+        ], 
+        "saint.n 753": [], 
+        "saint.n 754": [], 
+        "saint.n 755": [], 
+        "saint.n 756": [], 
+        "saint.n 757": [], 
+        "saint.n 758": [], 
+        "saint.n 759": [], 
+        "board.n 1788": [
+            "committee", 
+            "food", 
+            "plank"
+        ], 
+        "board.n 1789": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "board.n 1784": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "board.n 1785": [
+            "committee", 
+            "food", 
+            "plank"
+        ], 
+        "board.n 1786": [
+            "committee", 
+            "food", 
+            "plank"
+        ], 
+        "board.n 1787": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "board.n 1781": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "suspect.v 1680": [], 
+        "board.n 1783": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "drop.v 1290": [
+            "put", 
+            "fall", 
+            "lose", 
+            "collapse", 
+            "decrease", 
+            "abandon", 
+            "exclude"
+        ], 
+        "function.n 1868": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1869": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1866": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1867": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1864": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1865": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1862": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1863": [
+            "purpose", 
+            "consequence"
+        ], 
+        "function.n 1861": [
+            "purpose", 
+            "consequence"
+        ], 
+        "live.a 656": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 657": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 654": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 655": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 652": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 653": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 651": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 658": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "live.a 659": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "shed.v 529": [], 
+        "shed.v 528": [], 
+        "shed.v 527": [], 
+        "shed.v 526": [], 
+        "shed.v 525": [], 
+        "shed.v 524": [], 
+        "shed.v 523": [], 
+        "shed.v 522": [], 
+        "shed.v 521": [], 
+        "burst.v 1209": [
+            "collapse"
+        ], 
+        "burst.v 1208": [
+            "collapse"
+        ], 
+        "burst.v 1203": [
+            "collapse"
+        ], 
+        "burst.v 1202": [
+            "collapse"
+        ], 
+        "burst.v 1201": [
+            "collapse"
+        ], 
+        "burst.v 1207": [
+            "collapse"
+        ], 
+        "burst.v 1206": [
+            "collapse"
+        ], 
+        "burst.v 1205": [
+            "collapse"
+        ], 
+        "burst.v 1204": [
+            "collapse"
+        ], 
+        "change.v 1810": [], 
+        "worldwide.a 1760": [
+            "global"
+        ], 
+        "education.n 599": [
+            "teaching", 
+            "learning"
+        ], 
+        "education.n 598": [
+            "teaching", 
+            "learning"
+        ], 
+        "education.n 597": [
+            "teaching", 
+            "learning"
+        ], 
+        "education.n 596": [
+            "teaching", 
+            "learning"
+        ], 
+        "education.n 595": [
+            "learning", 
+            "teaching"
+        ], 
+        "education.n 594": [
+            "teaching", 
+            "learning"
+        ], 
+        "education.n 593": [
+            "learning", 
+            "teaching"
+        ], 
+        "education.n 592": [
+            "learning", 
+            "teaching"
+        ], 
+        "education.n 591": [
+            "teaching", 
+            "learning"
+        ], 
+        "strange.a 1660": [
+            "unusual", 
+            "unfamiliar"
+        ], 
+        "prominent.a 1516": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1517": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1514": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1515": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1512": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1513": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1511": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1518": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "prominent.a 1519": [
+            "important", 
+            "conspicuous", 
+            "protuberant"
+        ], 
+        "straight.a 771": [
+            "successive", 
+            "level", 
+            "honest", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 772": [
+            "successive", 
+            "level", 
+            "honest", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 775": [
+            "successive", 
+            "level", 
+            "honest", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 774": [
+            "level", 
+            "honest", 
+            "successive", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 777": [
+            "level", 
+            "honest", 
+            "successive", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 776": [
+            "level", 
+            "honest", 
+            "successive", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 779": [
+            "successive", 
+            "level", 
+            "honest", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "straight.a 778": [
+            "level", 
+            "honest", 
+            "successive", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "mood.n 690": [
+            "atmosphere"
+        ], 
+        "only.r 480": [
+            "exclusively"
+        ], 
+        "shortly.r 1067": [
+            "soon"
+        ], 
+        "shortly.r 1064": [
+            "soon"
+        ], 
+        "shortly.r 1065": [
+            "soon"
+        ], 
+        "shortly.r 1062": [
+            "soon"
+        ], 
+        "hard.r 630": [
+            "heavily"
+        ], 
+        "shortly.r 1061": [
+            "soon"
+        ], 
+        "shortly.r 1068": [
+            "soon"
+        ], 
+        "shortly.r 1069": [
+            "soon"
+        ], 
+        "order.v 1021": [], 
+        "order.v 1023": [], 
+        "order.v 1022": [], 
+        "order.v 1025": [], 
+        "order.v 1024": [], 
+        "investigator.n 1418": [
+            "inspector"
+        ], 
+        "order.v 1026": [], 
+        "order.v 1029": [], 
+        "order.v 1028": [], 
+        "investigator.n 1414": [
+            "inspector"
+        ], 
+        "investigator.n 1415": [
+            "inspector"
+        ], 
+        "investigator.n 1412": [
+            "inspector"
+        ], 
+        "investigator.n 1413": [
+            "inspector"
+        ], 
+        "investigator.n 1411": [
+            "inspector"
+        ], 
+        "rude.a 748": [
+            "abrupt", 
+            "primitive", 
+            "vulgar"
+        ], 
+        "loud.a 1434": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "loud.a 1435": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "fall.v 1840": [], 
+        "scrap.n 1952": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "scrap.n 1953": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "scrap.n 1954": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "scrap.n 1955": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "scrap.n 1956": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "rude.a 747": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "suspect.v 1673": [], 
+        "suspect.v 1672": [], 
+        "suspect.v 1671": [], 
+        "inner.a 1405": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "tremendous.a 1719": [
+            "excellent"
+        ], 
+        "tremendous.a 1718": [
+            "excellent"
+        ], 
+        "suspect.v 1675": [], 
+        "suspect.v 1674": [], 
+        "tremendous.a 1715": [
+            "excellent"
+        ], 
+        "tremendous.a 1714": [
+            "excellent"
+        ], 
+        "tremendous.a 1717": [
+            "excellent"
+        ], 
+        "suspect.v 1678": [], 
+        "tremendous.a 1711": [
+            "excellent"
+        ], 
+        "tremendous.a 1713": [
+            "excellent"
+        ], 
+        "tremendous.a 1712": [
+            "excellent"
+        ], 
+        "fire.v 1859": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fire.v 1858": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fire.v 1857": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fire.v 1856": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fire.v 1855": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "loud.a 1433": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "fire.v 1853": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fire.v 1852": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fire.v 1851": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "worthy.a 1150": [], 
+        "closely.r 1270": [], 
+        "saint.n 760": [], 
+        "scene.n 1580": [
+            "incident", 
+            "view", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "skip.v 1080": [], 
+        "throw.v 1704": [], 
+        "throw.v 1705": [], 
+        "throw.v 1706": [], 
+        "throw.v 1707": [], 
+        "throw.v 1701": [], 
+        "throw.v 1702": [], 
+        "throw.v 1703": [], 
+        "throw.v 1708": [], 
+        "throw.v 1709": [], 
+        "board.n 1790": [
+            "food", 
+            "committee", 
+            "plank"
+        ], 
+        "see.v 1059": [
+            "watch", 
+            "meet", 
+            "understand", 
+            "interview", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1058": [
+            "meet", 
+            "understand", 
+            "interview", 
+            "watch", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1055": [
+            "watch", 
+            "understand", 
+            "meet", 
+            "interview", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1054": [
+            "watch", 
+            "meet", 
+            "understand", 
+            "interview", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1057": [
+            "watch", 
+            "meet", 
+            "understand", 
+            "interview", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1056": [
+            "watch", 
+            "meet", 
+            "understand", 
+            "interview", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1051": [
+            "meet", 
+            "understand", 
+            "interview", 
+            "watch", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1053": [
+            "meet", 
+            "understand", 
+            "interview", 
+            "watch", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "see.v 1052": [
+            "meet", 
+            "understand", 
+            "interview", 
+            "watch", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "poor.a 1920": [
+            "unfortunate", 
+            "substandard"
+        ], 
+        "likewise.r 1003": [
+            "also"
+        ], 
+        "change.v 1802": [], 
+        "change.v 1803": [], 
+        "change.v 1801": [], 
+        "change.v 1806": [], 
+        "change.v 1807": [], 
+        "change.v 1804": [], 
+        "change.v 1805": [], 
+        "change.v 1808": [], 
+        "change.v 1809": [], 
+        "cap.n 1800": [
+            "limit", 
+            "lid"
+        ], 
+        "carry.v 1240": [
+            "win", 
+            "support", 
+            "sell", 
+            "display", 
+            "conduct", 
+            "transport", 
+            "approve", 
+            "publish", 
+            "undertake", 
+            "convey", 
+            "transmit", 
+            "entail"
+        ], 
+        "now.r 1020": [
+            "nowadays"
+        ], 
+        "below.r 1190": [
+            "underneath"
+        ], 
+        "girl.n 608": [
+            "girlfriend"
+        ], 
+        "girl.n 609": [
+            "girlfriend"
+        ], 
+        "girl.n 606": [
+            "girlfriend"
+        ], 
+        "girl.n 607": [
+            "girlfriend"
+        ], 
+        "girl.n 604": [
+            "girlfriend"
+        ], 
+        "girl.n 605": [
+            "girlfriend"
+        ], 
+        "girl.n 602": [
+            "girlfriend"
+        ], 
+        "girl.n 603": [
+            "girlfriend"
+        ], 
+        "girl.n 601": [
+            "girlfriend"
+        ], 
+        "mood.n 689": [
+            "atmosphere"
+        ], 
+        "mood.n 688": [
+            "atmosphere"
+        ], 
+        "mood.n 685": [
+            "atmosphere"
+        ], 
+        "mood.n 684": [
+            "atmosphere"
+        ], 
+        "mood.n 687": [
+            "atmosphere"
+        ], 
+        "mood.n 686": [
+            "atmosphere"
+        ], 
+        "mood.n 681": [
+            "atmosphere"
+        ], 
+        "mood.n 683": [
+            "atmosphere"
+        ], 
+        "mood.n 682": [
+            "atmosphere"
+        ], 
+        "draw.v 914": [], 
+        "still.a 763": [
+            "quiet", 
+            "motionless"
+        ], 
+        "shortly.r 1070": [
+            "soon"
+        ], 
+        "wind.v 2000": [], 
+        "mass.n 670": [
+            "majority", 
+            "pile"
+        ], 
+        "rude.a 750": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "strain.n 784": [
+            "stress", 
+            "pressure", 
+            "injury", 
+            "sound", 
+            "tension"
+        ], 
+        "strain.n 785": [
+            "stress", 
+            "pressure", 
+            "injury", 
+            "sound", 
+            "tension"
+        ], 
+        "strain.n 786": [
+            "pressure", 
+            "injury", 
+            "sound", 
+            "stress", 
+            "tension"
+        ], 
+        "strain.n 787": [
+            "pressure", 
+            "injury", 
+            "sound", 
+            "stress", 
+            "tension"
+        ], 
+        "strain.n 781": [
+            "pressure", 
+            "injury", 
+            "sound", 
+            "stress", 
+            "tension"
+        ], 
+        "strain.n 782": [
+            "stress", 
+            "pressure", 
+            "injury", 
+            "sound", 
+            "tension"
+        ], 
+        "strain.n 783": [
+            "pressure", 
+            "stress", 
+            "tension", 
+            "injury", 
+            "sound"
+        ], 
+        "strain.n 788": [
+            "pressure", 
+            "injury", 
+            "sound", 
+            "stress", 
+            "tension"
+        ], 
+        "strain.n 789": [
+            "pressure", 
+            "stress", 
+            "injury", 
+            "sound", 
+            "tension"
+        ], 
+        "match.n 679": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 678": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 673": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 672": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 671": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 677": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 676": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 675": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "match.n 674": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "loud.a 1431": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "raw.a 729": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 728": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 721": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 723": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 722": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 725": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 724": [
+            "uncooked", 
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed"
+        ], 
+        "raw.a 727": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "raw.a 726": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "cry.v 895": [
+            "weep", 
+            "call"
+        ], 
+        "terrible.a 330": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "only.r 479": [
+            "exclusively"
+        ], 
+        "only.r 478": [
+            "exclusively"
+        ], 
+        "only.r 471": [
+            "exclusively"
+        ], 
+        "only.r 473": [
+            "exclusively"
+        ], 
+        "only.r 472": [
+            "exclusively"
+        ], 
+        "only.r 475": [
+            "exclusively"
+        ], 
+        "only.r 474": [
+            "exclusively"
+        ], 
+        "only.r 477": [
+            "exclusively"
+        ], 
+        "only.r 476": [
+            "exclusively"
+        ], 
+        "throw.v 1710": [], 
+        "see.v 1060": [
+            "meet", 
+            "understand", 
+            "interview", 
+            "watch", 
+            "consult", 
+            "escort", 
+            "foresee", 
+            "discern"
+        ], 
+        "so.r 1610": [], 
+        "stiff.a 1648": [
+            "harsh", 
+            "strong", 
+            "difficult", 
+            "formal", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1649": [
+            "rigid", 
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "aching"
+        ], 
+        "stiff.a 1646": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1647": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1644": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1645": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1642": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1643": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "stiff.a 1641": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "charge.n 1820": [], 
+        "mission.n 1461": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "put.v 500": [], 
+        "mission.n 1463": [
+            "commission", 
+            "delegation", 
+            "assignment", 
+            "sortie"
+        ], 
+        "ring.n 1947": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "ring.n 1946": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "ring.n 1945": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "new.a 454": [
+            "unused"
+        ], 
+        "ring.n 1943": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "ring.n 1942": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "ring.n 1941": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "scene.n 1578": [
+            "incident", 
+            "view", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1577": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1576": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1575": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1574": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1573": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1572": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "scene.n 1571": [
+            "view", 
+            "incident", 
+            "location", 
+            "section", 
+            "subdivision", 
+            "fuss"
+        ], 
+        "ring.n 1948": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "new.a 451": [
+            "unused"
+        ], 
+        "suffer.v 1110": [], 
+        "time.n 795": [
+            "moment", 
+            "while", 
+            "amount", 
+            "hour", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "good.a 612": [], 
+        "good.a 611": [], 
+        "time.n 796": [
+            "moment", 
+            "while", 
+            "amount", 
+            "hour", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "good.a 617": [], 
+        "good.a 616": [], 
+        "good.a 615": [], 
+        "good.a 614": [], 
+        "good.a 619": [], 
+        "good.a 618": [], 
+        "time.n 799": [
+            "while", 
+            "amount", 
+            "hour", 
+            "moment", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "time.n 798": [
+            "amount", 
+            "while", 
+            "hour", 
+            "moment", 
+            "era", 
+            "lifetime", 
+            "rhythm", 
+            "clip", 
+            "heyday"
+        ], 
+        "tender.a 1689": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1688": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1687": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1686": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1685": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1684": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1683": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1682": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "tender.a 1681": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "remainder.n 731": [
+            "residue"
+        ], 
+        "remainder.n 732": [
+            "residue"
+        ], 
+        "remainder.n 733": [
+            "residue"
+        ], 
+        "remainder.n 734": [
+            "residue"
+        ], 
+        "remainder.n 735": [
+            "residue"
+        ], 
+        "remainder.n 736": [
+            "residue"
+        ], 
+        "remainder.n 737": [
+            "residue"
+        ], 
+        "remainder.n 738": [
+            "residue"
+        ], 
+        "field.n 1334": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "field.n 1337": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "field.n 1336": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "field.n 1331": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "field.n 1333": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "field.n 1332": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "light.a 992": [], 
+        "entirely.r 931": [
+            "solely", 
+            "absolutely"
+        ], 
+        "entirely.r 932": [
+            "absolutely", 
+            "solely"
+        ], 
+        "entirely.r 933": [
+            "absolutely", 
+            "solely"
+        ], 
+        "entirely.r 934": [
+            "solely", 
+            "absolutely"
+        ], 
+        "entirely.r 935": [
+            "absolutely", 
+            "solely"
+        ], 
+        "entirely.r 936": [
+            "solely", 
+            "absolutely"
+        ], 
+        "entirely.r 937": [
+            "absolutely", 
+            "solely"
+        ], 
+        "entirely.r 938": [
+            "solely", 
+            "absolutely"
+        ], 
+        "entirely.r 939": [
+            "solely", 
+            "absolutely"
+        ], 
+        "light.a 998": [], 
+        "light.a 999": [], 
+        "below.r 1183": [
+            "underneath"
+        ], 
+        "below.r 1182": [
+            "underneath"
+        ], 
+        "below.r 1181": [
+            "underneath"
+        ], 
+        "below.r 1187": [
+            "underneath"
+        ], 
+        "below.r 1186": [
+            "underneath"
+        ], 
+        "below.r 1185": [
+            "underneath"
+        ], 
+        "below.r 1184": [
+            "underneath"
+        ], 
+        "below.r 1189": [
+            "underneath"
+        ], 
+        "below.r 1188": [
+            "underneath"
+        ], 
+        "girl.n 610": [
+            "girlfriend"
+        ], 
+        "match.n 680": [
+            "contest", 
+            "marriage", 
+            "equal", 
+            "replica"
+        ], 
+        "draw.v 918": [], 
+        "draw.v 919": [], 
+        "strain.n 790": [
+            "stress", 
+            "pressure", 
+            "injury", 
+            "sound", 
+            "tension"
+        ], 
+        "draw.v 912": [], 
+        "draw.v 913": [], 
+        "draw.v 911": [], 
+        "draw.v 916": [], 
+        "draw.v 917": [], 
+        "bug.n 580": [
+            "fault", 
+            "insect"
+        ], 
+        "draw.v 915": [], 
+        "still.a 769": [
+            "quiet", 
+            "motionless"
+        ], 
+        "still.a 768": [
+            "quiet", 
+            "motionless"
+        ], 
+        "away.r 840": [
+            "elsewhere"
+        ], 
+        "still.a 762": [
+            "quiet", 
+            "motionless"
+        ], 
+        "still.a 761": [
+            "quiet", 
+            "motionless"
+        ], 
+        "still.a 767": [
+            "quiet", 
+            "motionless"
+        ], 
+        "still.a 766": [
+            "quiet", 
+            "motionless"
+        ], 
+        "still.a 765": [
+            "quiet", 
+            "motionless"
+        ], 
+        "still.a 764": [
+            "quiet", 
+            "motionless"
+        ], 
+        "raw.a 730": [
+            "strong", 
+            "realistic", 
+            "sore", 
+            "bleak", 
+            "inexperienced", 
+            "unsophisticated", 
+            "unprocessed", 
+            "uncooked"
+        ], 
+        "terrible.a 329": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 328": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 325": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 324": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 327": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 326": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 321": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 323": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "terrible.a 322": [
+            "dreadful", 
+            "ill", 
+            "unkind", 
+            "incorrigible"
+        ], 
+        "instead.r 649": [], 
+        "instead.r 648": [], 
+        "earlier.r 930": [], 
+        "new.a 453": [
+            "unused"
+        ], 
+        "test.n 1700": [
+            "exam", 
+            "trial", 
+            "criterion"
+        ], 
+        "instead.r 647": [], 
+        "truly.r 1740": [
+            "really", 
+            "sincerely", 
+            "accurately", 
+            "truthfully"
+        ], 
+        "fresh.a 959": [
+            "new", 
+            "young", 
+            "healthy", 
+            "cool", 
+            "chilly", 
+            "refreshed", 
+            "impudent"
+        ], 
+        "so.r 1602": [], 
+        "so.r 1603": [], 
+        "so.r 1601": [], 
+        "so.r 1606": [], 
+        "so.r 1607": [], 
+        "so.r 1604": [], 
+        "so.r 1605": [], 
+        "stiff.a 1650": [
+            "strong", 
+            "difficult", 
+            "formal", 
+            "harsh", 
+            "rigid", 
+            "aching"
+        ], 
+        "so.r 1608": [], 
+        "so.r 1609": [], 
+        "shortly.r 1066": [
+            "soon"
+        ], 
+        "live.a 660": [
+            "living", 
+            "hot", 
+            "topical", 
+            "electrified", 
+            "unexploded"
+        ], 
+        "profound.a 1510": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "shortly.r 1063": [
+            "soon"
+        ], 
+        "bring.v 1191": [
+            "cause", 
+            "carry", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1193": [
+            "cause", 
+            "carry", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1192": [
+            "cause", 
+            "carry", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1195": [
+            "cause", 
+            "carry", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1194": [
+            "cause", 
+            "carry", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1197": [
+            "carry", 
+            "cause", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1196": [
+            "carry", 
+            "cause", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1199": [
+            "carry", 
+            "cause", 
+            "conduct", 
+            "earn"
+        ], 
+        "bring.v 1198": [
+            "cause", 
+            "carry", 
+            "conduct", 
+            "earn"
+        ], 
+        "ring.n 1950": [
+            "gang", 
+            "arena", 
+            "circle"
+        ], 
+        "suffer.v 1108": [], 
+        "suffer.v 1109": [], 
+        "suffer.v 1101": [], 
+        "suffer.v 1102": [], 
+        "suffer.v 1103": [], 
+        "suffer.v 1104": [], 
+        "suffer.v 1105": [], 
+        "suffer.v 1106": [], 
+        "suffer.v 1107": [], 
+        "close.r 1260": [], 
+        "make.v 1455": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1454": [
+            "prepare", 
+            "force", 
+            "cause", 
+            "catch", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1457": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1456": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1451": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1453": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1452": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "saint.n 752": [], 
+        "make.v 1459": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "make.v 1458": [
+            "force", 
+            "cause", 
+            "catch", 
+            "prepare", 
+            "acquire", 
+            "appoint", 
+            "construct", 
+            "utter", 
+            "formulate", 
+            "perpetrate"
+        ], 
+        "order.v 1027": [], 
+        "tender.a 1690": [
+            "young", 
+            "difficult", 
+            "sore", 
+            "delicate", 
+            "affectionate"
+        ], 
+        "investigator.n 1419": [
+            "inspector"
+        ], 
+        "investigator.n 1416": [
+            "inspector"
+        ], 
+        "investigator.n 1417": [
+            "inspector"
+        ], 
+        "field.n 1340": [
+            "area", 
+            "pitch", 
+            "competitors", 
+            "scope", 
+            "meadow"
+        ], 
+        "scrap.n 1958": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "rude.a 749": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "scrap.n 1951": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "rude.a 742": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "rude.a 743": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "rude.a 744": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "rude.a 745": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "rude.a 746": [
+            "vulgar", 
+            "abrupt", 
+            "primitive"
+        ], 
+        "scrap.n 1957": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "suspect.v 1677": [], 
+        "tell.v 320": [], 
+        "suspect.v 1676": [], 
+        "scrap.n 1960": [
+            "leftovers", 
+            "fragment"
+        ], 
+        "tremendous.a 1716": [
+            "excellent"
+        ], 
+        "wind.n 360": [], 
+        "tremendous.a 1720": [
+            "excellent"
+        ], 
+        "fire.v 1860": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "still.a 770": [
+            "quiet", 
+            "motionless"
+        ], 
+        "strong.a 1093": [
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1092": [
+            "compelling", 
+            "powerful", 
+            "well", 
+            "firm", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1091": [
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1097": [
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1096": [
+            "forceful", 
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic"
+        ], 
+        "strong.a 1095": [
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1094": [
+            "compelling", 
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1099": [
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "strong.a 1098": [
+            "well", 
+            "firm", 
+            "powerful", 
+            "intense", 
+            "bright", 
+            "keen", 
+            "compelling", 
+            "loud", 
+            "durable", 
+            "alcoholic", 
+            "forceful"
+        ], 
+        "soft.a 1611": [
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "soft.a 1612": [
+            "velvety", 
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy"
+        ], 
+        "soft.a 1613": [
+            "velvety", 
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy"
+        ], 
+        "soft.a 1614": [
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "soft.a 1615": [
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "soft.a 1616": [
+            "dim", 
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "soft.a 1617": [
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "soft.a 1618": [
+            "velvety", 
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy"
+        ], 
+        "soft.a 1619": [
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "fire.v 1854": [
+            "shoot", 
+            "dismiss", 
+            "stimulate"
+        ], 
+        "fundamental.a 1362": [
+            "basic"
+        ], 
+        "fundamental.a 1363": [
+            "basic"
+        ], 
+        "fundamental.a 1361": [
+            "basic"
+        ], 
+        "fundamental.a 1366": [
+            "basic"
+        ], 
+        "fundamental.a 1367": [
+            "basic"
+        ], 
+        "fundamental.a 1364": [
+            "basic"
+        ], 
+        "fundamental.a 1365": [
+            "basic"
+        ], 
+        "fundamental.a 1368": [
+            "basic"
+        ], 
+        "fundamental.a 1369": [
+            "basic"
+        ], 
+        "earlier.r 928": [], 
+        "earlier.r 929": [], 
+        "earlier.r 922": [], 
+        "earlier.r 923": [], 
+        "earlier.r 921": [], 
+        "earlier.r 926": [], 
+        "earlier.r 927": [], 
+        "earlier.r 924": [], 
+        "earlier.r 925": [], 
+        "now.r 1011": [
+            "nowadays"
+        ], 
+        "rather.r 1549": [
+            "quite"
+        ], 
+        "rather.r 1548": [
+            "quite"
+        ], 
+        "rather.r 1541": [
+            "quite"
+        ], 
+        "rather.r 1543": [
+            "quite"
+        ], 
+        "rather.r 1542": [
+            "quite"
+        ], 
+        "rather.r 1545": [
+            "quite"
+        ], 
+        "rather.r 1544": [
+            "quite"
+        ], 
+        "rather.r 1547": [
+            "quite"
+        ], 
+        "rather.r 1546": [
+            "quite"
+        ], 
+        "about.r 569": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 568": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 566": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 565": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 564": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 563": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 562": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "about.r 561": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "range.n 1540": [
+            "assortment", 
+            "row", 
+            "stove", 
+            "pasture"
+        ], 
+        "shot.n 1974": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1975": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1976": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1977": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1971": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1972": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1973": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1978": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "shot.n 1979": [
+            "report", 
+            "ball", 
+            "attempt", 
+            "stroke", 
+            "photograph", 
+            "marksman"
+        ], 
+        "close.r 1252": [], 
+        "close.r 1253": [], 
+        "close.r 1251": [], 
+        "close.r 1256": [], 
+        "close.r 1257": [], 
+        "close.r 1254": [], 
+        "close.r 1255": [], 
+        "close.r 1258": [], 
+        "close.r 1259": [], 
+        "profound.a 1501": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "loud.a 1440": [
+            "noisy", 
+            "vociferous", 
+            "garish"
+        ], 
+        "apparently.r 820": [
+            "seemingly"
+        ], 
+        "civil.a 379": [
+            "secular", 
+            "internal", 
+            "polite"
+        ], 
+        "civil.a 378": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "civil.a 377": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "civil.a 376": [
+            "secular", 
+            "internal", 
+            "polite"
+        ], 
+        "civil.a 375": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "civil.a 374": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "civil.a 373": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "civil.a 372": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "civil.a 371": [
+            "internal", 
+            "secular", 
+            "polite"
+        ], 
+        "liberal.a 990": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "possibly.r 1040": [
+            "perhaps", 
+            "please"
+        ], 
+        "profound.a 1507": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "near.r 1477": [
+            "almost"
+        ], 
+        "near.r 1476": [
+            "almost"
+        ], 
+        "around.r 830": [
+            "nearby"
+        ], 
+        "profound.a 1506": [
+            "complex", 
+            "wise", 
+            "heartfelt"
+        ], 
+        "near.r 1472": [
+            "almost"
+        ], 
+        "let.v 976": [
+            "allow"
+        ], 
+        "let.v 977": [
+            "allow"
+        ], 
+        "let.v 974": [
+            "allow"
+        ], 
+        "let.v 975": [
+            "allow"
+        ], 
+        "let.v 972": [
+            "allow"
+        ], 
+        "wind.n 359": [], 
+        "let.v 971": [
+            "allow"
+        ], 
+        "wind.n 355": [], 
+        "wind.n 356": [], 
+        "wind.n 357": [], 
+        "wind.n 351": [], 
+        "wind.n 352": [], 
+        "let.v 979": [
+            "allow"
+        ], 
+        "return.v 518": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 519": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 514": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 515": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 516": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 517": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 511": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 512": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "return.v 513": [
+            "deliver", 
+            "yield", 
+            "elect", 
+            "reciprocate"
+        ], 
+        "soft.a 1620": [
+            "kind", 
+            "quiet", 
+            "gentle", 
+            "dim", 
+            "lenient", 
+            "mushy", 
+            "velvety"
+        ], 
+        "blue.a 846": [
+            "depressed", 
+            "indecent"
+        ], 
+        "clean.v 389": [], 
+        "clean.v 388": [], 
+        "clean.v 383": [], 
+        "clean.v 382": [], 
+        "clean.v 381": [], 
+        "clean.v 387": [], 
+        "clean.v 386": [], 
+        "clean.v 385": [], 
+        "clean.v 384": [], 
+        "fundamental.a 1370": [
+            "basic"
+        ], 
+        "special.a 550": [
+            "specific", 
+            "distinctive"
+        ], 
+        "external.a 1323": [
+            "outer"
+        ], 
+        "external.a 1322": [
+            "outer"
+        ], 
+        "external.a 1321": [
+            "outer"
+        ], 
+        "external.a 1327": [
+            "outer"
+        ], 
+        "external.a 1326": [
+            "outer"
+        ], 
+        "external.a 1325": [
+            "outer"
+        ], 
+        "external.a 1324": [
+            "outer"
+        ], 
+        "external.a 1329": [
+            "outer"
+        ], 
+        "external.a 1328": [
+            "outer"
+        ], 
+        "rather.r 1550": [
+            "quite"
+        ], 
+        "about.r 570": [
+            "around", 
+            "near", 
+            "approximately"
+        ], 
+        "cap.n 1791": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1793": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1792": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1795": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1794": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1797": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1796": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1799": [
+            "limit", 
+            "lid"
+        ], 
+        "cap.n 1798": [
+            "limit", 
+            "lid"
+        ], 
+        "secret.a 1961": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "secret.a 1962": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "secret.a 1963": [
+            "hidden", 
+            "clandestine", 
+            "uncommunicative"
+        ], 
+        "secret.a 1964": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "secret.a 1965": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "secret.a 1966": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "secret.a 1967": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "secret.a 1968": [
+            "hidden", 
+            "clandestine", 
+            "uncommunicative"
+        ], 
+        "secret.a 1969": [
+            "clandestine", 
+            "hidden", 
+            "uncommunicative"
+        ], 
+        "straight.a 780": [
+            "level", 
+            "honest", 
+            "successive", 
+            "logical", 
+            "respectable", 
+            "undiluted"
+        ], 
+        "liberal.a 981": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 982": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 983": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 984": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 985": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 986": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 987": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 988": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "liberal.a 989": [
+            "flexible", 
+            "generous", 
+            "abundant"
+        ], 
+        "clear.a 1250": [], 
+        "soil.n 1627": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1626": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1625": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1624": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1623": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1622": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1621": [
+            "territory", 
+            "earth"
+        ], 
+        "entirely.r 940": [
+            "solely", 
+            "absolutely"
+        ], 
+        "soil.n 1629": [
+            "territory", 
+            "earth"
+        ], 
+        "soil.n 1628": [
+            "territory", 
+            "earth"
+        ], 
+        "pass.v 1910": [], 
+        "inner.a 1404": [
+            "central", 
+            "internal", 
+            "mental", 
+            "privileged", 
+            "unapparent"
+        ], 
+        "around.r 829": [
+            "nearby"
+        ], 
+        "around.r 828": [
+            "nearby"
+        ], 
+        "around.r 821": [
+            "nearby"
+        ], 
+        "around.r 823": [
+            "nearby"
+        ], 
+        "around.r 822": [
+            "nearby"
+        ], 
+        "around.r 825": [
+            "nearby"
+        ], 
+        "around.r 824": [
+            "nearby"
+        ], 
+        "around.r 827": [
+            "nearby"
+        ], 
+        "around.r 826": [
+            "nearby"
+        ], 
+        "tap.v 1118": [], 
+        "tap.v 1119": [], 
+        "tap.v 1112": [], 
+        "tap.v 1113": [], 
+        "near.r 1480": [
+            "almost"
+        ], 
+        "tap.v 1111": [], 
+        "tap.v 1116": [], 
+        "tap.v 1117": [], 
+        "tap.v 1114": [], 
+        "tap.v 1115": [], 
+        "draw.v 920": [], 
+        "full.a 419": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "full.a 418": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "full.a 415": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "full.a 414": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "full.a 417": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "full.a 416": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "shade.n 1600": [
+            "shadow", 
+            "darkness", 
+            "ghost", 
+            "nuance"
+        ], 
+        "full.a 413": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ], 
+        "full.a 412": [
+            "rich", 
+            "comprehensive", 
+            "crowded", 
+            "eventful", 
+            "replete", 
+            "resonant"
+        ]
+    }
+}
